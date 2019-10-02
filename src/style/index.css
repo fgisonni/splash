@@ -33,12 +33,11 @@ h1{
 	display: flex;
 	text-transform: uppercase;
 	text-align: center;
-	height: 40vh;
+	height: 70vw;
 	background-image: url('../assets/img/silentmethods.jpg');
 	background-position: top center;
 	background-repeat: no-repeat;
-	background-size: contain;
-	background-attachment: fixed;
+	background-size: cover;
 	box-shadow: 0 -5px 10px -1px rgba(0,0,0,.5) inset;
 }
 
